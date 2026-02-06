@@ -1,0 +1,11 @@
+date,product,city,price,quantity
+2025-01-01,Laptop,Tehran,1200,1
+2025-01-02,Laptop,Shiraz,1200,2
+2025-01-03,Mouse,Tehran,25,5
+2025-01-04,Keyboard,Tabriz,45,3
+2025-01-05,Mouse,Isfahan,25,4
+2025-01-06,Laptop,Tehran,1200,1
+2025-01-07,Keyboard,Shiraz,45,2
+2025-01-08,Mouse,Isfahan,25,6
+2025-01-09,Laptop,Tabriz,1200,1
+2025-01-10,Keyboard,Tehran,45,3
